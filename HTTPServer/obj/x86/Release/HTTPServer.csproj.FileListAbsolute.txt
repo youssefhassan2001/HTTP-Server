@@ -1,0 +1,6 @@
+E:\FCIS PROJECT\server\Template[2021-2022]\HTTPServer\bin\Release\HTTPServer.exe
+E:\FCIS PROJECT\server\Template[2021-2022]\HTTPServer\bin\Release\HTTPServer.pdb
+E:\FCIS PROJECT\server\Template[2021-2022]\HTTPServer\obj\x86\Release\HTTPServer.csproj.AssemblyReference.cache
+E:\FCIS PROJECT\server\Template[2021-2022]\HTTPServer\obj\x86\Release\HTTPServer.csproj.CoreCompileInputs.cache
+E:\FCIS PROJECT\server\Template[2021-2022]\HTTPServer\obj\x86\Release\HTTPServer.exe
+E:\FCIS PROJECT\server\Template[2021-2022]\HTTPServer\obj\x86\Release\HTTPServer.pdb
